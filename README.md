@@ -39,4 +39,13 @@ During the two weeks it took us to create the app, we used Agile techniques:
 - Mapbox
 - Leaflet
 - JQuery
+- 
+####My contribution
+- I researched similar projects and map tools we could use
+- I set up the postgres database allowing to link events between them (using datamapper)
+- I styled the pop ups in CSS
+- I built a mail-merge system that allowed us to use volunteers to input large amounts of data at the last minute
+- I kept the Kanban board always up-to-date
+- I prepared the keynote presentation
+- During our retro I suggested a widely successful morning hug ritual!
 
