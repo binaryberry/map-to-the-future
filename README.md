@@ -39,7 +39,7 @@ During the two weeks it took us to create the app, we used Agile techniques:
 - Mapbox
 - Leaflet
 - JQuery
-- 
+
 ####My contribution
 - I researched similar projects and map tools we could use
 - I set up the postgres database allowing to link events between them (using datamapper)
